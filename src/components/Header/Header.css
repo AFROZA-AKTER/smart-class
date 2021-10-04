@@ -1,0 +1,25 @@
+/* .navbar{
+    background-color: #6495ED;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: none;
+    margin-right:auto;
+} */
+.navbar{
+    
+}
+.linkStyle{
+    text-decoration: none;
+    color:white;
+    margin:10px;
+    font-size: larger;
+}
+.linkStyle:hover{
+    background-color: orangered;
+    color:white;
+    padding-inline: 20px;
+    border-radius: 5px;
+}
+
+

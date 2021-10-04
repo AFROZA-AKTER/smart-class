@@ -1,0 +1,33 @@
+.about-us{
+    display: grid;
+    grid-template-columns: repeat(3  , 1fr);
+    color: white;
+}
+.smart-class{
+    display: flex;
+    margin: 20px;
+}
+.nameStyle{
+    text-align: center;
+    margin: 20px;
+}
+.title{
+    width:75%;
+    padding: 20px;
+}
+.header-text{
+    text-align: center;
+    margin: 20px;
+}
+.info{
+    display: flex;
+    
+}
+.icon{
+    margin-right: 20px;
+}
+.brand-icons{
+    text-align: center;
+    
+    
+}

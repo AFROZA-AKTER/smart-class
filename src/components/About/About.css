@@ -1,0 +1,17 @@
+.about-container{
+    display: flex;
+    margin: 50px;
+}
+.about-container img{
+    margin-left:50px;
+}
+
+h4{
+    margin-left: 20px;
+}
+.color-added{
+    background-color: #fcca03;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}

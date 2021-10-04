@@ -1,0 +1,22 @@
+.top-courses{
+   text-align: center;
+   margin: 50px;
+    
+}
+.button{
+ background-color: #34ede1;
+ border: none;
+ border-radius: 10px;
+ padding:10px;
+ margin: 30px;
+ color: white;
+ font-size: larger;
+}
+
+.button:hover{
+    background-color: #7195b0;
+    font-weight: bold;
+}
+.btn-align{
+    text-align: center;
+}

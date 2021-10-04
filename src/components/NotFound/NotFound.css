@@ -1,0 +1,7 @@
+.notFound{
+    position: fixed;
+    height:100vh;
+    width: 100%;
+    background-color: lightsteelblue;
+    text-align: center;
+}
